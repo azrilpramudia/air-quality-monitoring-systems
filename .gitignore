@@ -6,6 +6,7 @@ deploy/mosquitto/passwd
 
 # Secret files
 firmware/aqm-esp32/secrets.h
+deploy/mosquitto/passwd
 
 # Node modules and build directories
 node_modules/
